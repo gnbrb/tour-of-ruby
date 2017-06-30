@@ -161,14 +161,66 @@ Rubyも3系で型検査を導入するとは言ってる...
 
 +++
 
-#### Ruby の古典的な中身を知る
+##### 注意
+
+とある趣向に偏ってる！
+
++++
+
+#### Rubyの古典的な中身を知る
 
 [Rubyソースコード完全解説](http://amzn.asia/eAPla6c)
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51MQAYG70TL.jpg)
 
++++
+
+#### Rubyの古典的な中身を知る
+
+[Rubyソースコード完全解説](http://amzn.asia/eAPla6c)
+
 [Web版もある](http://i.loveruby.net/ja/rhg/book/)
 
++++
+
+#### Rubyの中身(YARV)
+
+[Rubyのしくみ -Ruby Under a Microscope-](http://amzn.asia/hgKzjPp)
+
+![](https://images-na.ssl-images-amazon.com/images/I/71KrmcyShVL.jpg)
+
++++
+
+#### Rubyの黒魔術集(嘘)
+
+[メタプログラミングRuby](http://amzn.asia/amF1FgK)
+
+![](https://images-na.ssl-images-amazon.com/images/I/81eBueseIcL.jpg)
+
++++
+
+#### その他
+
+* [アンダースタンディング コンピュテーション](https://www.oreilly.co.jp/books/9784873116976/)
+    * 計算理論の話なので情報系の方々はどうぞ(実装はRuby)
+* [リファクタリング:Rubyエディション](http://amzn.asia/gjoEeXE)
+    * Rubyじゃない方(Javaだったかな)はすごい名著と聞くのできっとこれも
+* [あなたの知らない超絶技巧プログラミングの世界](https://gihyo.jp/book/2015/978-4-7741-7643-7)
+    * 最高に面白いよ
+* [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.lambdanote.com/collections/frontpage/products/ruby-ruby)
+    * とても丁寧で初級者向け
+    * [Web版もあります](http://ascii.jp/elem/000/001/230/1230449/)
+
+---
+
+### まとめ
+
+* RubyはJavaと同じ頃に日本で生まれた
+    * そのせいか日本人コミッタが多い
+* 楽しくプログラミングするための言語
+* データは全てオブジェクト
+* 実行時まで型を決めつけない
+    * ~~型検査が欲しくなったらHaskellにおいでよ~~
 
 ---
 
