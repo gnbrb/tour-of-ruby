@@ -24,7 +24,7 @@
 
 ## History
 
-参考 : [Ruby(Programming Language) - wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+参考 : [Ruby(Programming Language) - wikipedia](https://en.wikipedia.org/wiki/Ruby_programming_language)
 
 * 1993/02 : Ruby 作り始める
 * 1994/10 : 内輪に公開
