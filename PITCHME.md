@@ -171,7 +171,7 @@ Rubyも3系で型検査を導入するとは言ってる...
 
 [Rubyソースコード完全解説](http://amzn.asia/eAPla6c)
 
-![](https://images-na.ssl-images-amazon.com/images/I/51MQAYG70TL.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/51MQAYG70TL._SX367_BO1,204,203,200_.jpg)
 
 +++
 
@@ -187,7 +187,7 @@ Rubyも3系で型検査を導入するとは言ってる...
 
 [Rubyのしくみ -Ruby Under a Microscope-](http://amzn.asia/hgKzjPp)
 
-![](https://images-na.ssl-images-amazon.com/images/I/71KrmcyShVL.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/51UJvlz4sPL._SX350_BO1,204,203,200_.jpg)
 
 +++
 
@@ -195,7 +195,7 @@ Rubyも3系で型検査を導入するとは言ってる...
 
 [メタプログラミングRuby](http://amzn.asia/amF1FgK)
 
-![](https://images-na.ssl-images-amazon.com/images/I/81eBueseIcL.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/5102wwx0VzL._SX389_BO1,204,203,200_.jpg)
 
 +++
 
@@ -205,6 +205,11 @@ Rubyも3系で型検査を導入するとは言ってる...
     * 計算理論の話なので情報系の方々はどうぞ(実装はRuby)
 * [リファクタリング:Rubyエディション](http://amzn.asia/gjoEeXE)
     * Rubyじゃない方(Javaだったかな)はすごい名著と聞くのできっとこれも
+
++++
+
+#### その他
+
 * [あなたの知らない超絶技巧プログラミングの世界](https://gihyo.jp/book/2015/978-4-7741-7643-7)
     * 最高に面白いよ
 * [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.lambdanote.com/collections/frontpage/products/ruby-ruby)
